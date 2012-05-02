@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage 'rabbitmq' 'EXE' '/S' 'http://www.rabbitmq.com/releases/rabbitmq-server/v2.8.2/rabbitmq-server-2.8.2.exe' -validExitCodes @(0)
