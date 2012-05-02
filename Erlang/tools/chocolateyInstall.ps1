@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage 'erlang' 'EXE' '/S' 'http://www.erlang.org/download/otp_win32_R15B01.exe' 'http://www.erlang.org/download/otp_win64_R15B01.exe'  -validExitCodes @(0)
