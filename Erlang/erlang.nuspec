@@ -3,7 +3,7 @@
   <metadata>
     <id>erlang</id>
     <title>Erlang</title>
-    <version>15.1</version>
+    <version>15.3.1</version>
     <authors>Joe Armstrong,Robert Virding,Mike Williams</authors>
     <owners>Scott Smerchek</owners>
     <summary>Erlang/OTP - for building concurrent, distributed, and fault tolerant systems</summary>
