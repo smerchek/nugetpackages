@@ -3,14 +3,14 @@
   <metadata>
     <id>rabbitmq</id>
     <title>RabbitMQ</title>
-    <version>3.0.1</version>
-    <authors>SpringSource (division of VMware)</authors>
+    <version>3.1.5</version>
+    <authors>GoPivotal</authors>
     <owners>Scott Smerchek</owners>
     <summary>RabbitMQ - Messaging that just works</summary>
     <description>RabbitMQ is open source message broker software (i.e., message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP) standard. The RabbitMQ server is written in Erlang and is built on the Open Telecom Platform framework for clustering and failover.</description>
     <projectUrl>http://www.rabbitmq.com/</projectUrl>
     <tags>message queueing messaging admin</tags>
-    <copyright>VMware, Inc.</copyright>
+    <copyright>GoPivotal, Inc.</copyright>
     <licenseUrl>http://www.rabbitmq.com/mpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://github.com/smerchek/nugetpackages/raw/master/RabbitMQ/rabbitmq-logo.png</iconUrl>
