@@ -3,7 +3,7 @@
   <metadata>
     <id>rabbitmq</id>
     <title>RabbitMQ</title>
-    <version>3.1.5</version>
+    <version>3.1.5.1</version>
     <authors>GoPivotal</authors>
     <owners>Scott Smerchek</owners>
     <summary>RabbitMQ - Messaging that just works</summary>
