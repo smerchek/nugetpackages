@@ -3,7 +3,7 @@
   <metadata>
     <id>rabbitmq</id>
     <title>RabbitMQ</title>
-    <version>3.3.0.0</version>
+    <version>3.4.1.0</version>
     <authors>GoPivotal</authors>
     <owners>Scott Smerchek</owners>
     <summary>RabbitMQ - Messaging that just works</summary>
@@ -19,8 +19,8 @@
     </dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
-	<files>
+  <files>
     <file src="tools\**" target="tools" />
     <!--<file src="content\**" target="content" />-->
-	</files>
+  </files>
 </package>
