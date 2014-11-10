@@ -1,9 +1,9 @@
 ﻿
 try {
 
-	Install-ChocolateyPackage 'rabbitmq' 'EXE' '/S' 'http://www.rabbitmq.com/releases/rabbitmq-server/v3.3.0/rabbitmq-server-3.3.0.exe' -validExitCodes @(0)
+	Install-ChocolateyPackage 'rabbitmq' 'EXE' '/S' 'http://www.rabbitmq.com/releases/rabbitmq-server/v3.4.1/rabbitmq-server-3.4.1.exe' -validExitCodes @(0)
 
-	Start-ChocolateyProcessAsAdmin 'C:\Chocolatey\lib\rabbitmq.3.3.0.0\tools\SetupRabbitMqManagement.bat'
+	Start-ChocolateyProcessAsAdmin 'C:\Chocolatey\lib\rabbitmq.3.4.1.0\tools\SetupRabbitMqManagement.bat'
 				    
   echo ""
   echo "RabbitMQ Management Plugin enabled by default at http://localhost:15672"
